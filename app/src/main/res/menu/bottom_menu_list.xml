@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu"
+        android:icon = "@drawable/menu_icon"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.ImageView"
+        android:title="menu" />
+
+    <item
+        android:id="@+id/calender"
+        android:icon = "@drawable/calender"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.ImageView"
+        android:title="calender"
+        />
+
+</menu>

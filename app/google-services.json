@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493002907633",
+    "firebase_url": "https://reminderapp-7720d-default-rtdb.firebaseio.com",
+    "project_id": "reminderapp-7720d",
+    "storage_bucket": "reminderapp-7720d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493002907633:android:a4fa181f7dbe71f5f0ae50",
+        "android_client_info": {
+          "package_name": "com.threebears.reminderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493002907633-hdomm840tucdpv03kugnavqub5017oc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvfPrVUG-vqASwFcoH2BjBXbXp9mobQyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493002907633-hdomm840tucdpv03kugnavqub5017oc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
